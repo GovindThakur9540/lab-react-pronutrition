@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: whitesmoke;
+}
+
+button {
+  cursor: pointer;
+  background-color: #0b4a6381;
+}
+
+input,
+.is-info {
+  padding: 5px;
+}
+
+/* Navbar */
+.mainbar {
+  background-color: #2197ce;
+  padding: 15px;
+  height: 50px;
+  width: 100%;
+  color: rgba(255, 255, 255, 0.849);
+  letter-spacing: 1px;
+  
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* SearchBox */
+
+.search {
+  margin-left: 60px;
+  margin-top: 10px;
+}
+
+.search-food {
+  margin-top: 10px;
+  width: 240px;
+  height: 20px;
+}
+
+/* Food Container */
+.food-container {
+  display: flex;
+  width: 100%;
+  /*justify-content: space-around;*/
+  /*align-items: flex-start;*/
+  margin-top: 50px;
+}
+
+/* Styling FoodBox */
+
+.box {
+  width: 30%;
+  margin-left: 60px;
+}
+
+.media {
+  background-color: #CED6CE;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px 20px;
+}
+
+.is-info {
+  margin-left: 2px;
+}
+
+.content p {
+  margin-left: 10px;
+}
+
+/* Calories Count */
+.calories {
+  width: 50%;
+  margin-left: 50px;
+}
+
+.cal-count {
+  display: flex;
+  margin-top: 10px;
+  background-color: #f8fafa;
+  width: 40%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0 10px 20px;
+  word-spacing: 20px;
+  margin-left: 150px;
+}
+
+.remove {
+  padding: 1px;
+  margin-right: 20px;
+}
+
+.media-left {
+  width: 20%;
+}
+.foodImage {
+  width: 80%;
+}
+
+.media {
+  display: flex;
+  align-items: center;
+}
+
+.media-content {
+  width: 100px;
+}
+
+.field {
+  display: flex;
+}
+
+.total-calories {
+  font-size: 1.4em;
+}
