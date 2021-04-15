@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-forms/static/css/main.0f6a7c44.chunk.css",
-    "main.js": "/react-forms/static/js/main.4f73b669.chunk.js",
-    "main.js.map": "/react-forms/static/js/main.4f73b669.chunk.js.map",
-    "runtime-main.js": "/react-forms/static/js/runtime-main.06069855.js",
-    "runtime-main.js.map": "/react-forms/static/js/runtime-main.06069855.js.map",
-    "static/js/2.8d60bd3f.chunk.js": "/react-forms/static/js/2.8d60bd3f.chunk.js",
-    "static/js/2.8d60bd3f.chunk.js.map": "/react-forms/static/js/2.8d60bd3f.chunk.js.map",
-    "static/js/3.2d6290f7.chunk.js": "/react-forms/static/js/3.2d6290f7.chunk.js",
-    "static/js/3.2d6290f7.chunk.js.map": "/react-forms/static/js/3.2d6290f7.chunk.js.map",
-    "index.html": "/react-forms/index.html",
-    "static/css/main.0f6a7c44.chunk.css.map": "/react-forms/static/css/main.0f6a7c44.chunk.css.map",
-    "static/js/2.8d60bd3f.chunk.js.LICENSE.txt": "/react-forms/static/js/2.8d60bd3f.chunk.js.LICENSE.txt"
+    "main.css": "/lab-react-pronutrition/static/css/main.0f6a7c44.chunk.css",
+    "main.js": "/lab-react-pronutrition/static/js/main.ac81dd66.chunk.js",
+    "main.js.map": "/lab-react-pronutrition/static/js/main.ac81dd66.chunk.js.map",
+    "runtime-main.js": "/lab-react-pronutrition/static/js/runtime-main.e6e62f94.js",
+    "runtime-main.js.map": "/lab-react-pronutrition/static/js/runtime-main.e6e62f94.js.map",
+    "static/js/2.07c6d32b.chunk.js": "/lab-react-pronutrition/static/js/2.07c6d32b.chunk.js",
+    "static/js/2.07c6d32b.chunk.js.map": "/lab-react-pronutrition/static/js/2.07c6d32b.chunk.js.map",
+    "static/js/3.2b68f759.chunk.js": "/lab-react-pronutrition/static/js/3.2b68f759.chunk.js",
+    "static/js/3.2b68f759.chunk.js.map": "/lab-react-pronutrition/static/js/3.2b68f759.chunk.js.map",
+    "index.html": "/lab-react-pronutrition/index.html",
+    "static/css/main.0f6a7c44.chunk.css.map": "/lab-react-pronutrition/static/css/main.0f6a7c44.chunk.css.map",
+    "static/js/2.07c6d32b.chunk.js.LICENSE.txt": "/lab-react-pronutrition/static/js/2.07c6d32b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.06069855.js",
-    "static/js/2.8d60bd3f.chunk.js",
+    "static/js/runtime-main.e6e62f94.js",
+    "static/js/2.07c6d32b.chunk.js",
     "static/css/main.0f6a7c44.chunk.css",
-    "static/js/main.4f73b669.chunk.js"
+    "static/js/main.ac81dd66.chunk.js"
   ]
 }
